@@ -28,4 +28,9 @@
  - Adobe Illustrator
  - Adobe After Effects
 
-  
+## Languages 
+
+ - English (B2)
+ - Ukrainian (C2)
+ - Russian (C2)
+ - Germanian (B1)  
