@@ -18,4 +18,14 @@
    
    **Instagram:** @barbotko.design
 
-   
+ ## Skills
+
+ - HTML
+ - CSS
+ - JS
+ - Adobe Photoshop
+ - Figma
+ - Adobe Illustrator
+ - Adobe After Effects
+
+  
