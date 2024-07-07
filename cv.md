@@ -10,7 +10,7 @@
 
    **Email:** barbotkoirina@gmail.com
    
-   **Phone:** +380950228246
+   **Phone:** +491753233557
    
    **GitHub:** irabarbotko
    
