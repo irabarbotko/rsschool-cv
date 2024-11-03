@@ -18,3 +18,10 @@
    **Telegram:** t.me/barbotko_design
 
    **Instagram:** @barbotko.design
+
+## Languages
+
+ - English (B2)
+ - Ukrainian (C2)
+ - Russian (C2)
+ - Deutsch (B1)
